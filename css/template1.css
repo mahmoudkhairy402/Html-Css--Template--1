@@ -118,7 +118,7 @@
 
   .landing{
     height: calc(100vh - 55.3px);
-    background-image: url(/images/mountain.jpg);
+    background-image: url(../images/mountain.jpg);
     background-repeat: none;
     background-size: cover;
     display: flex;
